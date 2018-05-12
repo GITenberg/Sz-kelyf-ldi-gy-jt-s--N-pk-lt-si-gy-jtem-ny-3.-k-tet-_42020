@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39589
     wikipedia: http://hu.wikipedia.org/wiki/Benedek_Elek
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42020#Sz-kelyf-ldi-gy-jt-s--N-pk-lt-si-gy-jtem-ny-3.-k-tet-
 gutenberg_issued: '2013-02-05'
 gutenberg_type: Text
 identifiers:

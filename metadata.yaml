@@ -1,0 +1,46 @@
+_repo: Sz-kelyf-ldi-gy-jt-s--N-pk-lt-si-gy-jtem-ny-3.-k-tet-_42020
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Kriza, János
+    alias: Kriza, Janos
+    birthdate: 1811
+    deathdate: 1875
+    gutenberg_agent_id: '41478'
+    url: http://www.gutenberg.org/2009/agents/41478
+  - agent_name: Orbán, Balázs
+    alias: Orban, Balazs
+    birthdate: 1830
+    deathdate: 1890
+    gutenberg_agent_id: '41479'
+    url: http://www.gutenberg.org/2009/agents/41479
+  - agent_name: Sebesi, Jób
+    alias: Sebesi, Job
+    birthdate: 1860
+    deathdate: 1894
+    gutenberg_agent_id: '41480'
+    url: http://www.gutenberg.org/2009/agents/41480
+  - agent_name: Benedek, Elek
+    birthdate: 1859
+    deathdate: 1929
+    gutenberg_agent_id: '39589'
+    url: http://www.gutenberg.org/2009/agents/39589
+    wikipedia: http://hu.wikipedia.org/wiki/Benedek_Elek
+description: ''
+gutenberg_issued: '2013-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42020'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk songs, Hungarian'
+- !lcc 'PH'
+- !lcsh 'Folklore -- Hungary'
+title: Székelyföldi gyüjtés (Népköltési gyüjtemény 3. kötet)
+url: http://www.gutenberg.org/ebooks/42020
